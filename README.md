@@ -44,5 +44,3 @@ This repository contains setup, usage, and roadmap details for:
 | Automation | OS, Subprocess, PyAutoGUI |
 
 ---
-
-# ⚙️ JARVIS Mark II – Setup Guide
