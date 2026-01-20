@@ -34,13 +34,13 @@ This repository contains setup, usage, and roadmap details for:
 
 ## 🛠️ Tech Stack
 
-| Component | Technology |
-|--------|-----------|
-| Language | Python |
-| Voice Recognition | SpeechRecognition |
-| Text-to-Speech | pyttsx3 |
-| AI Engine | OpenAI / Local LLM (optional) |
-| OS Support | Windows / Linux |
-| Automation | OS, Subprocess, PyAutoGUI |
+          | Component | Technology |
+          |--------|-----------|
+          | Language | Python |
+          | Voice Recognition | SpeechRecognition |
+          | Text-to-Speech | pyttsx3 |
+          | AI Engine | OpenAI / Local LLM (optional) |
+          | OS Support | Windows / Linux |
+          | Automation | OS, Subprocess, PyAutoGUI |
 
 ---
